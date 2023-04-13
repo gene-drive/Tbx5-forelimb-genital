@@ -1,6 +1,8 @@
 ### RNA-seq analysis pipeline comparing Tbx5 cKO mutant forelimbs to controls - last updated April 2023 by Aaron Alcala
 # Run this in R/ RStudio
 
+# Scroll to bottom for section on QC and Visualization
+
 # In this script, I initially used two separate control groups (heterozygotes and homozygous Tbx5 flox/flox-HoxB6Cre_negative) in the DESeq2 pipeline. Later in the script, I decide to remove the heterozygotes and only use the homozygous flox/flox as the control group to compare to Tbx5 cKO mutants.
 
 # The annotation file used was: gencode.vM10.annotation.gtf
