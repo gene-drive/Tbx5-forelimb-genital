@@ -1,4 +1,4 @@
-# Tbx5-forelimb-genital
+# Aaron Alcala's scripts for ChIP-seq and RNA-seq analyses
 
 This repository contains scripts used in the following Ph.D. disseration:
 
