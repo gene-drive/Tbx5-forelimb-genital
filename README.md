@@ -30,7 +30,7 @@ Scripts used to generate figures
 ----------------------------------------------------------------------
 After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
 
-* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/0f1495034ecddadd38e2a0d3b8b86137538618a0/Scripts/Heatmaps_RNA-seq)
+* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/c0ce5ca716ffceeba932c64339724f6eb468934b/Scripts/Heatmaps_RNA-seq.R)
 
 Example:
 
