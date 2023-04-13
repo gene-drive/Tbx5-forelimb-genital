@@ -153,7 +153,7 @@ count_matrix12a
 count_matrix14a <- count_matrix12a[,-c(12)]
 count_matrix14a
 
-# After I trim out these replicates (columns) from my count_matrix, I used the matrix for the DESeq2 analysis.
+# After I trimmed out these replicates (columns) from my count_matrix, I used the matrix (count_matrix14a) and repeated the differential pipeline above.
 
 
 # You can reorder matrix columns using:
