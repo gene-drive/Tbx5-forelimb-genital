@@ -16,17 +16,21 @@ Data Availability
 ----------------------------------------------------------------------
 Genomic and transcriptomic data for this manuscript will be uploaded to the Gene Expression Omnibus database and updated accession numbers will be posted here.
 
+Tools used
+----------------------------------------------------------------------
+For a list of all tools used in this manuscript, click [here](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/dfc5a543b5424ec37137c334c8c0e40bd56f428c/Tools-Used.md).
+
 
 Scripts used to analyze datasets
 ----------------------------------------------------------------------
-* [RNA-seq analysis pipeline comparing Tbx5 cKO mutant forelimbs to controls](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/d1482d0f002efefe90315bb257576c0d6893b4a2/RNA-seq%20pipeline_DESeq2%20analysis%20and%20visualization_Forelimb%20Tbx5%20mutants%20vs%20controls.R)
+* [RNA-seq analysis pipeline comparing Tbx5 cKO mutant forelimbs to controls](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/0f1495034ecddadd38e2a0d3b8b86137538618a0/Scripts/RNA-seq%20pipeline_DESeq2%20analysis%20and%20visualization_Forelimb%20Tbx5%20mutants%20vs%20controls.R)
 
 
 Scripts used to generate figures
 ----------------------------------------------------------------------
 After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
 
-* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/307cb94428ff260fcce215ee8ce83b98c24b939d/Heatmaps_RNA-seq)
+* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/0f1495034ecddadd38e2a0d3b8b86137538618a0/Scripts/Heatmaps_RNA-seq)
 
 Example:
 
