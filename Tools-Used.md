@@ -9,6 +9,7 @@ RNA-seq:
 * [pheatmap](https://cran.r-project.org/package=pheatmap) and [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/index.html)<sup>2</sup> to generate heatmaps of the count matrices
 * [ggVolcanoR](https://ggvolcanor.erc.monash.edu/) to create Volcano Plots of RNA-seq data (webtool!)
 * [ShinyGO](http://bioinformatics.sdstate.edu/go/) for gene-set enrichment analysis of differentially expressed genes from RNA-seq and generation of lollipop plots (webtool!)
+* [BioTapestry](https://biotapestry.systemsbiology.net/) to build and visualize the gene regulatory network models
 
 ChIP-seq:
 * [ENCODE Transcription Factor and Histone ChIP-Seq processing pipeline](https://github.com/ENCODE-DCC/chip-seq-pipeline2)<sup>1</sup> to process ChIP-seq replicates and identify highly reproducible peaks. 
