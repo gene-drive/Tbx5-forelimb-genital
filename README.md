@@ -20,8 +20,9 @@ Tools used
 ----------------------------------------------------------------------
 For a list of all tools used in this manuscript, click [here](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Tools-Used.md).
 
-If you are a Windows user (like me) and need help using Linux within a virtual machine to perform analyses, feel free to reach out to me for installation help.
+* If you are a Windows user (like me) and need to run Linux within a virtual machine to perform analyses, check out [this](https://www.fosslinux.com/42789/how-to-install-linux-mint-on-virtualbox.htm) guide or [this](https://linuxhint.com/install_linux_mint_20_virtualbox/) one. I setup a shared folder this [this](https://helpdeskgeek.com/virtualization/virtualbox-share-folder-host-guest/) guide.
 
+* After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
 
 Scripts used to analyze datasets
 ----------------------------------------------------------------------
@@ -31,10 +32,10 @@ Scripts used to analyze datasets
 
 Scripts used to generate figures
 ----------------------------------------------------------------------
-After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
+* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/Heatmaps_RNA-seq.R). Example:
 
-* [RNA-seq heatmap of global expression patterns](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/Heatmaps_RNA-seq.R)
+<img width="700" src="https://user-images.githubusercontent.com/61433004/231803053-dba321dc-dd72-4ceb-a44d-68cfe83c39bb.jpg">
 
-Example:
+* [Genome browser tracks of ChIP-seq peaks of interest](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/peak-visualization_pyGenomeTracks) (and the [tracks file](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/hs1448_Wnt5a_Plot_v1.ini) used). Example:
 
-<img width="1150" src="https://user-images.githubusercontent.com/61433004/231803053-dba321dc-dd72-4ceb-a44d-68cfe83c39bb.jpg">
+<img width="700" src="https://user-images.githubusercontent.com/61433004/231871420-1f878d17-3a93-4389-a703-1f555134b266.jpg">
