@@ -36,6 +36,11 @@ Scripts used to generate figures
 
 <img width="700" src="https://user-images.githubusercontent.com/61433004/231803053-dba321dc-dd72-4ceb-a44d-68cfe83c39bb.jpg">
 
-* [Genome browser tracks of ChIP-seq peaks of interest](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/peak-visualization_pyGenomeTracks) (and the [tracks file](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/hs1448_Wnt5a_Plot_v1.ini) used). Mouse embryo photo is from the [VISTA Enhancer Browser](https://enhancer.lbl.gov/). Example:
+* [Genome browser tracks of ChIP-seq peaks of interest](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/peak-visualization_pyGenomeTracks.sh) (and the [tracks file](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/hs1448_Wnt5a_Plot_v1.ini) used). Mouse embryo photo is from the [VISTA Enhancer Browser](https://enhancer.lbl.gov/). Example:
 
 <img width="700" src="https://user-images.githubusercontent.com/61433004/231871420-1f878d17-3a93-4389-a703-1f555134b266.jpg">
+
+
+* [Enrichment heatmaps (comparing bigwigs) of ChIP-seq datasets](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/Heatmaps_ChIP-seq_deepTools.sh). Example:
+<img width="300" src="https://user-images.githubusercontent.com/61433004/231881114-baa6c5f1-e411-4918-9377-bee69cd0ca36.jpg">
+
