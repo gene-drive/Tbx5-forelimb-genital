@@ -18,6 +18,7 @@ ChIP-seq:
 * [deepTools](https://deeptools.readthedocs.io/en/develop/)<sup>3</sup> to generate enrichment heatmaps
 * [pyGenomeTracks](https://pygenometracks.readthedocs.io/en/latest/)<sup>3</sup> to visualize genome browser tracks of peaks of interest
 * [bedtools](https://bedtools.readthedocs.io/en/latest/index.html)<sup>1</sup> to find peak coordinate intersections
+* [Canva](https://www.canva.com/graphs/doughnut-charts/) to generate doughnut charts (webtool!) - Final edits made in Illustrator
 
 For ChIP-seq analyses in which only one replicate was generated:
 * [bwa]()<sup>1</sup> to align reads
