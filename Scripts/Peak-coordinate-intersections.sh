@@ -2,7 +2,7 @@
 
 # bedtools Documentation: https://bedtools.readthedocs.io/en/latest/index.html
 
-# Install bedtools in Linux Mint
+### Install bedtools in Linux Mint
 apt-get install bedtools
 
 # The input files for this tool are .bed peak coordinates. Column 1 is chromosome (chr), Column 2 is starting position, Column 3 is ending position, and Column 4 is peak name. Other columns are optional.
