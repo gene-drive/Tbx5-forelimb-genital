@@ -20,6 +20,8 @@ Tools used
 ----------------------------------------------------------------------
 For a list of all tools used in this manuscript, click [here](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Tools-Used.md).
 
+If you are a Windows user (like me) and need help using Linux within a virtual machine to perform analyses, feel free to reach out to me for installation help.
+
 
 Scripts used to analyze datasets
 ----------------------------------------------------------------------
