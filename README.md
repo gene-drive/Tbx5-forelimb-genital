@@ -20,7 +20,7 @@ Tools used
 ----------------------------------------------------------------------
 For a list of all tools used in this manuscript, click [here](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Tools-Used.md).
 
-* If you are a Windows user (like me) and need to run Linux within a virtual machine to perform analyses, check out [this](https://www.fosslinux.com/42789/how-to-install-linux-mint-on-virtualbox.htm) guide or [this](https://linuxhint.com/install_linux_mint_20_virtualbox/) one. I setup a shared folder this [this](https://helpdeskgeek.com/virtualization/virtualbox-share-folder-host-guest/) guide.
+* If you are a Windows user (like me) and need to run Linux within a virtual machine to perform analyses, check out [this](https://www.fosslinux.com/42789/how-to-install-linux-mint-on-virtualbox.htm) guide or [this](https://linuxhint.com/install_linux_mint_20_virtualbox/) one. I setup a shared folder (to transfer files between my host Windows PC and Virtual Machine Linux) using [this](https://helpdeskgeek.com/virtualization/virtualbox-share-folder-host-guest/) guide.
 
 * After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
 
