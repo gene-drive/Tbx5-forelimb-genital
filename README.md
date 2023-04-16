@@ -46,3 +46,20 @@ Scripts used to generate figures
 * [Enrichment heatmaps (comparing bigwigs) of ChIP-seq datasets](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/Heatmaps_ChIP-seq_deepTools.sh). Example:
 <img width="300" src="https://user-images.githubusercontent.com/61433004/231881114-baa6c5f1-e411-4918-9377-bee69cd0ca36.jpg">
 
+
+Figures generated using easy-to-use webtools (no coding background needed!)
+----------------------------------------------------------------------
+* Volcano plots of differentially expressed genes found via RNA-seq - [ggVolcanoR](https://ggvolcanor.erc.monash.edu/). Example:
+
+<img width="400" src="https://user-images.githubusercontent.com/61433004/232326917-9c7b6e8a-9a43-48c0-a24c-998cef8b0561.jpg">
+
+
+* Gene-set enrichment analysis of differentially expressed genes from RNA-seq and generation of lollipop plots using [ShinyGO](http://bioinformatics.sdstate.edu/go/). Example:
+
+<img width="400" src="https://user-images.githubusercontent.com/61433004/232326643-6ea914b4-aac7-4328-911a-1c9596fc8864.jpg">
+
+
+* Assign biological meaning to a set of ChIP-seq binding sites by analyzing the annotations of nearby genes using [GREAT (Genomic Regions Enrichment of Annotations Tool)](http://great.stanford.edu/public/html/). Example:
+
+<img width="400" src="https://user-images.githubusercontent.com/61433004/232327104-d57d000d-c2f6-47f7-a4a3-09c803e5e0d8.jpg">
+
