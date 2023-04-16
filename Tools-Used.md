@@ -33,6 +33,6 @@ For ChIP-seq analyses in which only one replicate was generated:
 * <sup>2</sup> ran in R/ Rstudio
 * <sup>3</sup>  ran locally at the command line within [Linux Mint](https://www.linuxmint.com/) running in a [Virtual Machine](https://www.virtualbox.org/)
 
-After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom.
+After generation of figures, vector graphics were edited in Adobe Illustrator and assembled for publication in Adobe InDesign. Other photo edits were made in either Adobe Photoshop or Lightroom. (Note: you can open PDF files in Illustrator edit as vectors).
 
   
