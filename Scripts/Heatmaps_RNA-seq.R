@@ -101,7 +101,7 @@ dds_norm12a_2_map
 # Saving as PDF gives good quality and is fastest way to export for basic presentations or lab meetings. Make sure to change size and orientation to your preference.
 
 ### To save for publication quality image, I save as a vector (NOT a raster image such as jpg, gif, etc.). 
-# For some reason exporting as a .svg messes with the text. Therefore, I saved as .eps instead.
+# For some reason exporting as a .svg messes with the text. Therefore, I saved as .eps instead. Alternatively, you could save as a PDF (this is editable in Illustrator).
 # To do this, click Export -> Save as Image. Then choose EPS as format. Then Resize the window so you get the desired image ratio for your heatmap. Then click save and it will save to your Working Directory.
 # You can open the EPS file in Adobe Illustrator and adjust further. You can import the vector directly into Indesign or other programs like powerpoint. Alternatively, you can export your heatmap from Illustrator as a raster (jpg, tiff, or whatever you want).
 
