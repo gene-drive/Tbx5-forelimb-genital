@@ -1,6 +1,9 @@
 ######### This document describes how I used deepTools to plot enrichment heatmaps (comparing bigwigs) of ChIP-seq datasets.
 
-# In this particular example, I create a plot comparing enrichment of TBX5, HOXA13, and H3K27ac signal in the mouse genital tubercle. Peaks are binned into two groups: TBX5-HOXA13-shared peaks  and TB5-specific peaks.
+# In this particular example, I create a plot comparing enrichment of TBX5, HOXA13, and H3K27ac signal in the mouse genital tubercle. Peaks are binned into two groups: TBX5-HOXA13-shared peaks (blue line) and TB5-specific peaks (red line).
+
+# Here is the link to the figure: https://user-images.githubusercontent.com/61433004/231881114-baa6c5f1-e411-4918-9377-bee69cd0ca36.jpg
+
 
 # deepTools Documentation: https://deeptools.readthedocs.io/en/develop/
 
@@ -54,10 +57,6 @@ plotHeatmap -m matrix_TBX5-HOXA13-H3K27ac--GT--Tbx5-Hoxa13-peaks_v1.gz  \
 -out TBX5-HOXA13-H3K27ac--GT--Tbx5-Hoxa13-peaks_Heatmap_v5b.pdf
 
 # See here for a description of all the arguments above: https://deeptools.readthedocs.io/en/develop/content/tools/plotHeatmap.html
-
-# Here is the link to the figure: https://user-images.githubusercontent.com/61433004/231881114-baa6c5f1-e411-4918-9377-bee69cd0ca36.jpg
-# In this plot, peaks for each bigwig dataset are binned into two groups: TBX5-HOXA13-shared peaks (represented by the blue line) and TB5-specific peaks (represented by the red line). 
-
 
 
 # After generation of plots, vector graphics (in the PDF file) were edited in Adobe Illustrator. Final figures were assembled for publication in Adobe InDesign.
