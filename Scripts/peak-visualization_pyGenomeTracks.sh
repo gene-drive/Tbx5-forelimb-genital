@@ -1,4 +1,5 @@
 ######### This document describes how I used pyGenomeTracks to visualize genome browser tracks of ChIP-seq peaks of interest.
+# Here is the link to the figure: https://user-images.githubusercontent.com/61433004/231871420-1f878d17-3a93-4389-a703-1f555134b266.jpg
 
 # pyGenomeTracks Documentation: https://pygenometracks.readthedocs.io/en/latest/
 
