@@ -4,13 +4,19 @@ This repository contains scripts used in the following Ph.D. disseration:
 
 **Limbs, Genitals, and Gene Regulatory Networks: Identifying Conserved Targets of TBX5 in Embryonic Forelimbs and Genitalia**
 
-by Aaron Alcala
+<details><summary>Abstract</summary>
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although the morphology of the amniote limb and phallus differ dramatically, these appendage types express a similar suite of transcription factors and signaling molecules during development. This observation led to the hypothesis that the amniote phallus may have evolved, in part, through co-option of components of an ancient appendage gene regulatory network. Consistent with this, previous work from our lab has shown that many enhancers active in developing limbs are also active in the genital tubercle (GT). However, it remains unknown whether transcription factors expressed in the limbs and phallus interact with the same enhancers to regulate similar suites of target genes. In this dissertation, I address this question by investigating the regulatory targets of the TBX5 transcription factor. TBX5 plays a critical role in the growth and development of the vertebrate forelimb and is also known to be expressed in the developing genitalia of several amniote species. Using TBX5 ChIP-seq in mouse embryonic forelimbs and GTs, I have identified thousands of binding sites in each of these appendage types. Approximately 32% of forelimb peaks are shared with the GT and are significantly enriched near genes involved in limb development. Thus, despite the high overlap of active enhancers in embryonic limbs and genitalia, there are differences in the set of TBX5-bound cis-regulatory targets in these tissues. To investigate the degree to which TBX5 binding events are conserved in amniote appendages, I also performed parallel TBX5 ChIP-seq experiments in embryonic appendages of <i>Anolis</i> lizards, turtles, and alligators. Furthermore, I conditionally knocked out the <i>Tbx5</i> gene during the early development of mouse forelimbs and genitalia and used RNA-seq to uncover genes that exhibit TBX5-dependent expression. Using an integrative ChIP-seq and RNA-seq approach, I have identified putative direct target genes regulated by TBX5 in embryonic appendages. Overall, the large genomic and transcriptomic datasets I have generated: 1) enhance our understanding of how TBX5 governs appendage development and 2) serve as valuable resources to form testable hypotheses of the mechanisms underlying the growth of these structures.
+
+</details>
+
+by Aaron Alcala 
 
 * [Website](https://aaronevodevo.wixsite.com/aaronevodevo)
 * [SciComm Portfolio](https://aaronalcala.myportfolio.com/)
 * [LinkedIn](https://www.linkedin.com/in/aaronalcala/)
 * [Social Media Links - @AaronEvoDevo](https://linktr.ee/AaronAlcala)
-
 
 Data Availability
 ----------------------------------------------------------------------
@@ -65,7 +71,7 @@ Figures generated using easy-to-use webtools (no coding background needed!)
 
 * Creating venn diagrams using [eulerr](https://eulerr.co/). Example showing overlapping binding regions of TBX5, HOXA13, and HOXD13 in mouse forelimbs:
 
-<img width="400" src="https://user-images.githubusercontent.com/61433004/232327689-01d12665-5d01-48b7-8275-f9a02abd7f87.png">
+<img width="400" src="https://user-images.githubusercontent.com/61433004/232812727-190f51e3-db74-43c8-93f4-510ca8457710.png">
 
 
 
