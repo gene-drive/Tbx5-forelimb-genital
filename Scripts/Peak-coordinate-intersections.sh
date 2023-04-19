@@ -1,4 +1,4 @@
-######### This document describes how I used bedtools to find peak coordinate intersetions between ChIP-seq datasets.
+######### This document describes how I used bedtools to find peak coordinate intersections between ChIP-seq datasets.
 
 # bedtools Documentation: https://bedtools.readthedocs.io/en/latest/index.html
 
