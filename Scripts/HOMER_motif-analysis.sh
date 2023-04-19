@@ -29,7 +29,7 @@ ml Homer/4.11-foss-2019b
 echo -e "\n** Script started on `date` **\n"
 
 findMotifsGenome.pl \
-/scratch/apa29914/path-to-bed-files/mm10_FL_Tbx5_9153711_conservative_peak_for_HOMER_100bp_top2000.bed \
+/scratch/user/path-to-bed-files/mm10_FL_Tbx5_9153711_conservative_peak_for_HOMER_100bp_top2000.bed \
 mm10 \
 v1_c_mm10_FL_HomerOutput/ \
 -size 100 \
