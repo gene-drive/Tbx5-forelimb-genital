@@ -1,6 +1,5 @@
 ########## Count matrix Heatmaps for RNA-seq data - last updated April 2023 by Aaron Alcala
 # Run this in R/ RStudio
-# Heatmap_instructions_for_RNA-seq-AaronAlcala_v2.sh
 
 # Install packages: pheatmap, ComplexHeatmap, and InteractiveComplexHeatmap
 # For more info on interactive heatmaps: https://github.com/jokergoo/InteractiveComplexHeatmap
