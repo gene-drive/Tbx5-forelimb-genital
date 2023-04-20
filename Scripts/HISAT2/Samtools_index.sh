@@ -1,5 +1,3 @@
-### The script below was ran on the Sapelo2 cluster of the Georgia Advanced Computing Resource Center (GACRC) ###
-
 #!/bin/bash
 #SBATCH --job-name=FL_ctrl1_bai_redo
 #SBATCH --partition=batch
