@@ -1,5 +1,3 @@
-### The script below was ran on the Sapelo2 cluster of the Georgia Advanced Computing Resource Center (GACRC) ###
-
 #!/bin/bash
 #SBATCH --job-name=mm10_index_HISAT2
 #SBATCH --partition=batch
