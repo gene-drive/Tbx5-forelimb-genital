@@ -32,7 +32,7 @@ For a list of all tools used in this manuscript, click [here](https://github.com
 
 Scripts used to analyze datasets
 ----------------------------------------------------------------------
-* [Aligning reads from RNA-seq experiment using HISAT2](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/HISAT2/HISAT2_alignment_RNA-seq.sh)
+* [Aligning reads from RNA-seq experiment using HISAT2](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/HISAT2/HISAT2_alignment_RNA-seq.md)
 * [RNA-seq analysis pipeline to detect differentially expressed genes between Tbx5 cKO mutant forelimbs and controls](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/RNA-seq%20pipeline_DESeq2%20analysis%20and%20visualization_Forelimb%20Tbx5%20mutants%20vs%20controls.R)
 * [Using bedtools to find peak coordinate intersections between ChIP-seq datasets](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/Peak-coordinate-intersections.sh)
 * [Performing motif analysis of ChIP-seq peaks using HOMER](https://github.com/gene-drive/Tbx5-forelimb-genital/blob/main/Scripts/HOMER_motif-analysis.sh)
