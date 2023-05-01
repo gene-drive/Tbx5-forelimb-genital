@@ -29,7 +29,7 @@ apt-get install bedtools
 
 
 
-### Sample command used to output which TBX5 mouse forelimb peaks (13,580 peaks) intersect with TBX5 mouse genital tubercle peaks (20,728 peaks):
+### Sample command used to output which TBX5 mouse forelimb peaks (13,580 peaks) intersect with TBX5 mouse genital tubercle peaks (20,728 peaks). This identifies peaks with at least a 1 bp  overlap:
 
 bedtools intersect \
 -a mm10_FL_Tbx5_9153711_idr_conservative_peak.bed \
