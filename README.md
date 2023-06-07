@@ -2,7 +2,7 @@
 
 This repository contains scripts used in the following Ph.D. disseration:
 
-**Limbs, Genitals, and Gene Regulatory Networks: Identifying Conserved Targets of TBX5 in Embryonic Forelimbs and Genitalia**
+**Limbs, Genitals, and Gene Regulatory Networks: Identifying Conserved Targets of TBX5 in Embryonic Forelimbs and Genitalia** - [Link](https://esploro.libs.uga.edu/esploro/outputs/9949558927202959)
 
 <details><summary>Abstract</summary>
 
